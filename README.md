@@ -41,3 +41,5 @@ https://openai.com/api/
 AzureTTS has a free plan of 500 000 characters per month for Neural voices, which is the one i used. this can be changed to "normal" voices
 for 5 million characters a month.
 https://azure.microsoft.com/en-us/
+
+Sample audio here: https://github.com/dfosli/TEDTalk-maker/releases/download/v1.0/history_of_ai.mp3
