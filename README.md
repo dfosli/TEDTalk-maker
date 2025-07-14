@@ -20,14 +20,17 @@ It has a CLI-based interface.
 1. Clone this repo  
 2. Install dependencies  
 3. Add your `.env` file with:
+    
     OPENAI_API_KEY=your_openai_key
+    
     AZURE_SPEECH_KEY=your_azure_key
+    
     AZURE_REGION=your_azure_region
 
     OpenAI API and Azure can be a little troublesome to set up. the links to the websites are below. there are also lots of guides to help set this up.
 4. Run the CLI:
     python main.py
-5. Enter a topic and length. It will save an .mp3 to outputs/.
+5. Enter a topic, length and voice-number. It will save an .mp3 to outputs/.
 
 ##📦 Requirements
 - pip install -r requirements.txt
